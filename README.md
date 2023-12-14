@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhas3299
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- mail me on abhaschaudhary3299@gmail.com
 
 <!---
