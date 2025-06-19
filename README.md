@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhas3299
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C++
+- 3rd year B.Tech Student at LNMIIT, Jaipur 
+- | iOS Developer in training | Swift & SwiftUI enthusiast | Currently building apps with UIKit & Firebase
 - 📫 How to reach me- mail me on abhaschaudhary3299@gmail.com
 
 <!---
