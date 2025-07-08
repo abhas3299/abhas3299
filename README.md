@@ -50,7 +50,7 @@ While I specialize in **iOS app development**, I also work with **C++**, **Pytho
 ## 📫 Let’s Connect
 
 - GitHub: [@abhas3299](https://github.com/abhas3299)
-- LinkedIn: [Abhas Chaudhary](https://www.linkedin.com/in/abhaschaudhary/)
+- LinkedIn: [Abhas Chaudhary](https://www.linkedin.com/in/abhas-chaudhary/)
 - Email: `abhaschaudhary3299@gmail.com`
 
 ---
